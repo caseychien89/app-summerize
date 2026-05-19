@@ -1,0 +1,8 @@
+{
+  "name": "Remix: AI 會議記錄生成與翻譯工具",
+  "description": "專業的 AI 工具，可協助您從會議逐字稿中生成摘要、重點筆記並進行翻譯。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
